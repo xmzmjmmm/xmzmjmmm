@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="70" viewBox="0 0 600 70">
+  <g font-family="Fira Code, monospace" font-size="32" font-weight="700">
+    <text x="232" y="45" fill="#FF5F6D" opacity="0">我<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.04;0.08;0.42;0.46;1" dur="8s" repeatCount="indefinite"/><animate attributeName="fill" values="#FF5F6D;#FFC371;#37E2D5;#FF5F6D" dur="2s" repeatCount="indefinite"/></text>
+    <text x="266" y="45" fill="#FFC371" opacity="0">是<animate attributeName="opacity" values="0;0;0;1;1;0;0" keyTimes="0;0.10;0.14;0.42;0.46;0.461;1" dur="8s" repeatCount="indefinite"/><animate attributeName="fill" values="#FFC371;#37E2D5;#FF5F6D;#FFC371" dur="2s" repeatCount="indefinite"/></text>
+    <text x="300" y="45" fill="#37E2D5" opacity="0">小<animate attributeName="opacity" values="0;0;0;1;1;0;0" keyTimes="0;0.16;0.20;0.42;0.46;0.461;1" dur="8s" repeatCount="indefinite"/><animate attributeName="fill" values="#37E2D5;#FF5F6D;#FFC371;#37E2D5" dur="2s" repeatCount="indefinite"/></text>
+    <text x="334" y="45" fill="#FF5F6D" opacity="0">喵<animate attributeName="opacity" values="0;0;0;1;1;0;0" keyTimes="0;0.22;0.26;0.42;0.46;0.461;1" dur="8s" repeatCount="indefinite"/><animate attributeName="fill" values="#FF5F6D;#FFC371;#37E2D5;#FF5F6D" dur="2s" repeatCount="indefinite"/></text>
+  </g>
+  <g font-family="Fira Code, monospace" font-size="32" font-weight="700">
+    <text x="232" y="45" fill="#FFC371" opacity="0">你<animate attributeName="opacity" values="0;0;0;1;1;0;0" keyTimes="0;0.52;0.56;0.90;0.94;0.941;1" dur="8s" repeatCount="indefinite"/><animate attributeName="fill" values="#FFC371;#37E2D5;#FF5F6D;#FFC371" dur="2s" repeatCount="indefinite"/></text>
+    <text x="266" y="45" fill="#37E2D5" opacity="0">好<animate attributeName="opacity" values="0;0;0;1;1;0;0" keyTimes="0;0.58;0.62;0.90;0.94;0.941;1" dur="8s" repeatCount="indefinite"/><animate attributeName="fill" values="#37E2D5;#FF5F6D;#FFC371;#37E2D5" dur="2s" repeatCount="indefinite"/></text>
+    <text x="300" y="45" fill="#FF5F6D" opacity="0">呀<animate attributeName="opacity" values="0;0;0;1;1;0;0" keyTimes="0;0.64;0.68;0.90;0.94;0.941;1" dur="8s" repeatCount="indefinite"/><animate attributeName="fill" values="#FF5F6D;#FFC371;#37E2D5;#FF5F6D" dur="2s" repeatCount="indefinite"/></text>
+    <text x="334" y="45" fill="#FFC371" opacity="0">！<animate attributeName="opacity" values="0;0;0;1;1;0;0" keyTimes="0;0.70;0.74;0.90;0.94;0.941;1" dur="8s" repeatCount="indefinite"/><animate attributeName="fill" values="#FFC371;#37E2D5;#FF5F6D;#FFC371" dur="2s" repeatCount="indefinite"/></text>
+  </g>
+</svg>
